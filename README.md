@@ -147,7 +147,7 @@ All settings are in `.env`:
 
 | Variable | Description | Default |
 |----------|-------------|---------|
-| `NAS_IP` | Your NAS IP address | `192.168.1.100` |
+| `NAS_IP` | Your NAS IP address | `` |
 | `OPENAI_API_KEY` | OpenAI API key | - |
 | `POSTGRES_PASSWORD` | Database password | - |
 | `EMBEDDING_MODEL` | Embedding model | `text-embedding-3-small` |
